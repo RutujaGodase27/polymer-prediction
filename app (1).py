@@ -224,7 +224,7 @@ from google.colab import files
 
 files.download("model_bundle.joblib")
 
-!pip install streamlit -q
+#!pip install streamlit -q
 
 import streamlit as st
 import pandas as pd
